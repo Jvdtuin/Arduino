@@ -3,9 +3,9 @@
 Servo servo[3];
 int arm[] = {5,9,A3};
 
-int red[] = {2,6,A0};
+int red[] = {4,6,A0};
 int green[] = {3,7,A1};
-int blue[] = {4,8,A2};
+int blue[] = {2,8,A2};
 
 const int aanUit = 13;
 
